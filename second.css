@@ -1,0 +1,29 @@
+img{
+    width: 118px;
+    border-radius: 45px;
+}
+body{
+    background: linear-gradient(to top left ,#cdb4db, #84a98c);
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+nav{
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+    background-color:#219ebc;
+
+}
+
+a{
+    border: 50px;
+    border-radius: 30px;
+    background-color: #023047;
+    color: #fdf0d5;
+    margin: 30px;
+    font-size: larger;
+}
